@@ -31,10 +31,10 @@ How to Run the Project
 ________________________________________
 Results
 •	The Random Forest model achieved the best results with:
-o	Accuracy: 100%
-o	Precision: 100%, meaning very few false fraud flags
-o	Recall:  100%, meaning it catches almost all frauds
-o	F1-Score: Almost perfect, indicating a balanced performance
+1.	Accuracy: 100%
+2.	Precision: 100%, meaning very few false fraud flags
+3.	Recall:  100%, meaning it catches almost all frauds
+4.	F1-Score: Almost perfect, indicating a balanced performance
 ________________________________________
 Future Improvements
 1.	Hyperparameter Tuning: Further improvements can be made by tuning the parameters of the Random Forest or other models.
