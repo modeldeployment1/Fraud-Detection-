@@ -18,7 +18,7 @@ o	Random Forest
 ________________________________________
 Technologies Used
 1.	Python: The programming language used for building and training the models.
-2,	Pandas & NumPy: For data manipulation and analysis.
+2.	Pandas & NumPy: For data manipulation and analysis.
 3.	scikit-learn: A powerful library for machine learning, used for model building and evaluation.
 4.	Jupyter Notebook: Used for coding and testing the project.
 ________________________________________
