@@ -11,10 +11,11 @@ How It Works
 3.	Data Cleaning: Missing values and outliers are handled (though the dataset we use is clean).
 4.	Dealing with Imbalanced Data: Since fraud cases are rare, I used oversampling (SMOTE), with oversampling ultimately balancing the dataset effectively.
 5.	Feature Engineering: We transform certain features, like scaling the transaction amount, to make them suitable for machine learning models.
-6.	Model Training: 
+6.	Time-based Feature Engineering: Extracting more meaningful time features (e.g., time of day) might improve detection accuracy.
+7.	Model Training: 
 o	Random Forest
-7.	Model Evaluation: Model is evaluated based on accuracy, precision, recall, and F1-score to ensure a balance between catching frauds and minimizing false positives.
-8.	Random Forest Model: After testing, Random Forest was found to be the most accurate and reliable model for this project.
+8.	Model Evaluation: Model is evaluated based on accuracy, precision, recall, and F1-score to ensure a balance between catching frauds and minimizing false positives.
+9.	Random Forest Model: After testing, Random Forest was found to be the most accurate and reliable model for this project.
 ________________________________________
 Technologies Used
 1.	Python: The programming language used for building and training the models.
@@ -39,7 +40,6 @@ ________________________________________
 Future Improvements
 1.	Hyperparameter Tuning: Further improvements can be made by tuning the parameters of the Random Forest or other models.
 2.	Real-time Prediction: Integrating the model into an API for real-time fraud detection.
-3.	Time-based Feature Engineering: Extracting more meaningful time features (e.g., time of day) might improve detection accuracy.
 ________________________________________
 Conclusion
 This project demonstrates how machine learning can be used to effectively detect credit card fraud. By using models like Random Forest and techniques to handle imbalanced data, we achieved high accuracy and reliability in predicting fraudulent transactions.
