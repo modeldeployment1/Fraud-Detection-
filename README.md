@@ -25,9 +25,9 @@ Technologies Used
 ________________________________________
 How to Run the Project
 1.	Download the dataset: The dataset is available in this repository.
-2.	Install the Required Libraries:
-o	The key libraries required are pandas, numpy, scikit-learn, and imbalanced-learn.
+2.	Install the Required Libraries:The key libraries required are pandas, numpy, scikit-learn, and imbalanced-learn.
 3.	Run the Code: After installing the dependencies, run the Python script: -This will train the models, evaluate them, and print the performance metrics (accuracy, precision, recall, F1-score).
+4.	Real-time Prediction: Integrating the model into an API for real-time fraud detection.
 ________________________________________
 Results
 •	The Random Forest model achieved the best results with:
@@ -38,7 +38,6 @@ o	F1-Score: Almost perfect, indicating a balanced performance
 ________________________________________
 Future Improvements
 1.	Hyperparameter Tuning: Further improvements can be made by tuning the parameters of the Random Forest or other models.
-2.	Real-time Prediction: Integrating the model into an API for real-time fraud detection.
 ________________________________________
 Conclusion
 This project demonstrates how machine learning can be used to effectively detect credit card fraud. By using models like Random Forest and techniques to handle imbalanced data, we achieved high accuracy and reliability in predicting fraudulent transactions.
