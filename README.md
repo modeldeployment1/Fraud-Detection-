@@ -17,10 +17,10 @@ o	Random Forest
 8.	Random Forest Model: After testing, Random Forest was found to be the most accurate and reliable model for this project.
 ________________________________________
 Technologies Used
-•	Python: The programming language used for building and training the models.
-•	Pandas & NumPy: For data manipulation and analysis.
-•	scikit-learn: A powerful library for machine learning, used for model building and evaluation.
-•	Jupyter Notebook: Used for coding and testing the project.
+1.	Python: The programming language used for building and training the models.
+2,	Pandas & NumPy: For data manipulation and analysis.
+3.	scikit-learn: A powerful library for machine learning, used for model building and evaluation.
+4.	Jupyter Notebook: Used for coding and testing the project.
 ________________________________________
 How to Run the Project
 1.	Download the dataset: The dataset is available in this repository.
