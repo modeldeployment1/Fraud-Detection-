@@ -21,6 +21,7 @@ Technologies Used
 2.	Pandas & NumPy: For data manipulation and analysis.
 3.	scikit-learn: A powerful library for machine learning, used for model building and evaluation.
 4.	Jupyter Notebook: Used for coding and testing the project.
+5.	Deployment: Streamlit App and Stream Cloud
 ________________________________________
 How to Run the Project
 1.	Download the dataset: The dataset is available in this repository.
