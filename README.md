@@ -31,8 +31,8 @@ ________________________________________
 Results
 •	The Random Forest model achieved the best results with:
 o	Accuracy: 100%
-o	Precision: High, meaning very few false fraud flags
-o	Recall: Close to 100%, meaning it catches almost all frauds
+o	Precision: 100%, meaning very few false fraud flags
+o	Recall:  100%, meaning it catches almost all frauds
 o	F1-Score: Almost perfect, indicating a balanced performance
 ________________________________________
 Future Improvements
