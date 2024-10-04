@@ -12,8 +12,7 @@ How It Works
 4.	Dealing with Imbalanced Data: Since fraud cases are rare, I used oversampling (SMOTE), with oversampling ultimately balancing the dataset effectively.
 5.	Feature Engineering: We transform certain features, like scaling the transaction amount, to make them suitable for machine learning models.
 6.	Time-based Feature Engineering: Extracting more meaningful time features (e.g., time of day) might improve detection accuracy.
-7.	Model Training: 
-o	Random Forest
+7.	Model Training:R andom Forest Model
 8.	Model Evaluation: Model is evaluated based on accuracy, precision, recall, and F1-score to ensure a balance between catching frauds and minimizing false positives.
 9.	Random Forest Model: After testing, Random Forest was found to be the most accurate and reliable model for this project.
 ________________________________________
